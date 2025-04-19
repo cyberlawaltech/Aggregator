@@ -1,7 +1,8 @@
-<ins>💵</ins> Coin List Aggregator
-Backend Specification for <ins>🌐</ins> Web3-Agg-Wallets
+<h1><ins>💵</ins> Coin List Aggregator</h1>
+<h2>Backend Specification for <ins>🌐</ins> Web3-Agg-Wallets</h2>
 
-Executive Summary
+<h2>Executive Summary</h2>
+
 This document provides a comprehensive backend specification for the Web3-Agg-Wallets application, a cryptocurrency data aggregation and wallet management platform. It details all essential configurations, setup procedures, and development tasks necessary for successful implementation.
 
 Wallet aggregators like Web3Auth
@@ -30,13 +31,6 @@ Wallet aggregators like Web3Auth
 | Configure ESLint and Prettier     | Set up code formatting and linting rules            | Medium   | 1 hour         | To Do  |
 | Set up database                   | Configure PostgreSQL, MongoDB, and Redis            | High     | 4 hours        | To Do  |
 
-
-clientID:
-mdb_sa_id_67fd4fc511d98c0641564623
-Client Secret:
-mdb_sa_sk_rMbGCwAxuLDtonDX0fGnCt3b6qcQbG6RwLpYbMUE
-public key: xuhkhaso
-Private key: c8febdcd-eed8-4231-ac59-8808de74093d
 
 ### 10.2 Backend Development Tasks
 
